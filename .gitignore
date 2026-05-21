@@ -1,0 +1,8 @@
+.venv/
+.idx/
+__pycache__/
+devserver.sh
+.env
+temp/
+mbclient/
+.messageCache
